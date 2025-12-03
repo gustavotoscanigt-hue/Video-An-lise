@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SurfBiomech Analyzer",
+  "description": "A professional video analysis tool for surf maneuvers. Features frame-by-frame drawing, auto-clips, and analysis export without relying on browser native popups.",
+  "requestFramePermissions": []
+}
